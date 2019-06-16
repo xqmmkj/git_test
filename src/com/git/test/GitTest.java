@@ -1,9 +1,9 @@
-package com.git.test
+package com.git.test;
 
 public class GitTest{
 	public static void main(String[] args) {
-		System.out.println();
-		
+		System.out.println("HelloWorld!");
+		System.out.println("HelloWorld2!");
 	}
 	
 }
