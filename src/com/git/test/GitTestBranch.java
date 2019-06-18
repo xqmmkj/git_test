@@ -50,6 +50,8 @@ public class GitTestBranch{
 		for(RepositoryCommit commit: commitsList) {
 			System.out.println(commit.getCommit().getMessage());
 		}
+		
+		System.out.println("success");
 	}
 }
 
