@@ -12,7 +12,7 @@ import org.eclipse.egit.github.core.client.GitHubResponse;
 import org.eclipse.egit.github.core.service.CommitService;
 import org.eclipse.egit.github.core.service.RepositoryService;
 
-public class GitTestBranch{
+public class GitTestBranch2{
 	
 	private GitHubClient client;
 
